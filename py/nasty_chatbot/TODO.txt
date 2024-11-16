@@ -1,0 +1,1 @@
+get a chatbot in the terminal working, like that duthc guys compost example and make the chatbot be mean to you, and sound like an east london ganster

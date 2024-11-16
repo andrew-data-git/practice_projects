@@ -1,0 +1,1 @@
+use an api to get a random quote and image, try to make it funny with brain rot
